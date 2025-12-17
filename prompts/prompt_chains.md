@@ -13,3 +13,5 @@ I chose the niche "productivity and study techniques" could you generate the tit
 ### Step 2: Script Generation
 Now generate the script for the title (Why Hard Work Isn’t Improving Your Grades)  which contains about 800-1500 words.
 
+
+
