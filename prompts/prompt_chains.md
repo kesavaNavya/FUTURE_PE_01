@@ -16,6 +16,15 @@ Now generate the script for the title (Why Hard Work Isn’t Improving Your Grad
 ### Step 3: Thumbnail Image
 Generate a thumbnail for a youtube video which should be realistic and attractive whose miche is study and the study methods and motivation.
 
+### step 4: complete video 
+i used pictory to complete the video. i uploaded the script and generated the video first then i added the AI generated voice over to form a complete video. that's it
 
+## title -- chatgpt
+## script -- chatgpt
+## video generation -- pictory
+## thumbail -- gemini ai
+
+### THE WORK FLOW:
+Title --> script --> video generation --> thumbail.
 
 
